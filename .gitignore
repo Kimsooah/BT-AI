@@ -1,0 +1,11 @@
+*/.idea/*
+*/Include/*
+*/Lib/*
+*/Scripts/*
+*/tcl/*
+*/src/*.p
+*/src/*.tar
+*/src/*.tar.gz
+*/src/*.rar
+*/src/*.7z
+*/src/*.zip

@@ -1,0 +1,5 @@
+SERVER = 'localhost'
+PORT = '3306'
+USER = 'root'
+PASSWORD = ''
+DATABASE = 'chapter18book2'
